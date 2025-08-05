@@ -1,0 +1,254 @@
+{
+  "components": [],
+  "ItemDetails": {
+    "MenuItems_1": [
+      {
+        "isActive": true,
+        "text": "Home",
+        "isNavLink": true,
+        "url": "Portfolio/Home",
+        "prefixLogo": {
+          "name": "Home",
+          "color": "#e9ecf2",
+          "className": "flex h-5 w-5"
+        }
+      },
+      {
+        "isActive": true,
+        "text": "About",
+        "isNavLink": true,
+        "url": "Portfolio/About",
+        "prefixLogo": {
+          "name": "User2",
+          "color": "#e9ecf2",
+          "className": "flex h-5 w-5"
+        }
+      }
+    ],
+    "DdItem_1": [
+      {
+        "order": 0,
+        "text": "Experiences",
+        "subtext": "",
+        "isShowItemCount": true,
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Briefcase",
+          "color": "#e9ecf2",
+          "className": "h-5 w-5"
+        }
+      },
+      {
+        "isActive": true,
+        "order": 1,
+        "text": "Central Public School",
+        "subtext": "Aug 2023 \u2013 June 2025",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Building2",
+          "color": "#0277b5",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 2,
+        "text": "CAG Office, Gwalior (Intern)",
+        "subtext": "Aug 2024 \u2013 Oct 2024",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Building2",
+          "color": "#4267B2",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 3,
+        "text": "Coding Thinker (Trainee)",
+        "subtext": "Aug 2024 \u2013 Oct 2024",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Building2",
+          "color": "#b5179e",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 4,
+        "text": "Octanet Pvt. Ltd. (Intern)",
+        "subtext": "Nov 2024 \u2013 Dec 2024",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Building2",
+          "color": "#ff6f00",
+          "className": ""
+        }
+      }
+    ],
+    "DdItem_2": [
+      {
+        "order": 0,
+        "text": "Projects",
+        "subtext": "",
+        "isShowItemCount": false,
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "FolderGit2",
+          "color": "#e9ecf2",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 1,
+        "text": "To-Do List",
+        "subtext": "Task Manager App",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Code2",
+          "color": "#0277b5",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 2,
+        "text": "Tic-Tac-Toe",
+        "subtext": "Java Console Game",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Code2",
+          "color": "#4267B2",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 3,
+        "text": "Portfolio Website",
+        "subtext": "React & Node.js",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Code2",
+          "color": "#b5179e",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 4,
+        "text": "School Management System",
+        "subtext": "PHP, MySQL, JS",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Code2",
+          "color": "#ff6f00",
+          "className": ""
+        }
+      }
+    ],
+    "DdItem_3": [
+      {
+        "order": 0,
+        "text": "Education",
+        "subtext": "",
+        "isShowItemCount": true,
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "GraduationCap",
+          "color": "#e9ecf2",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 1,
+        "text": "B-Tech",
+        "subtext": "Vikrant Institute, Gwalior",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "School2",
+          "color": "#0277b5",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 2,
+        "text": "12th Grade",
+        "subtext": "Tanvar Higher Secondary School",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "School2",
+          "color": "#4267B2",
+          "className": ""
+        }
+      },
+      {
+        "isActive": true,
+        "order": 3,
+        "text": "10th Grade",
+        "subtext": "Sarswati Sishu Mandir School",
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "School2",
+          "color": "#b5179e",
+          "className": ""
+        }
+      }
+    ],
+    "DdItem_4": [
+      {
+        "order": 0,
+        "text": "Socials",
+        "subtext": "",
+        "isShowItemCount": false,
+        "isNavLink": true,
+        "url": "",
+        "prefixLogo": {
+          "name": "Hash",
+          "color": "#e9ecf2",
+          "className": "h-5 w-5"
+        }
+      },
+      {
+        "isActive": true,
+        "order": 1,
+        "text": "LinkedIn",
+        "subtext": "",
+        "isNavLink": false,
+        "url": "https://www.linkedin.com/in/vikash-sharma380",
+        "prefixLogo": {
+          "name": "Linkedin",
+          "color": "#0277b5",
+          "className": ""
+        }
+      }
+    ],
+    "MenuItems_2": [
+      {
+        "isActive": true,
+        "text": "Resume",
+        "isNavLink": true,
+        "url": "Portfolio/Home",
+        "prefixLogo": null
+      }
+    ]
+  }
+}
